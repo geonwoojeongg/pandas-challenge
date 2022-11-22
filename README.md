@@ -1,5 +1,20 @@
 # Pandas Challenge
 Several summaries have been drawn based on school and student data frames.
+
+1. District summary is a brief summary of all the schools in the district combined, showing total number of students, budget, and overall average math, reading and overall passing rates.
+
+2. School Summary shows data on each school in the district, including student population, school type, per student budget, and academic scores. 
+
+3. Top Performing Schools and Bottom Performing Schools show information just on the top five and bottom five schools in terms of academic scores.
+
+4. Reading and Math Scores by Grade show the scores by each grade group in all schools. 
+
+5. Scores by School Spending shows four budget ranges of all schools in the district and academic scores for each budget group. 
+
+6. Scores by School Size shows three size ranges of student population of all schools combined and their academic scores. 
+
+7. Scores by School Type shows academic scores for charter schools and district schools. 
+
 Two interesting conclusions have been found:
 
 ## Conclusion 1
